@@ -1,0 +1,5 @@
+Problem Statement
+
+Generate a datastream of length 10000 of integers, where each entry is randomly and
+uniformly chosen from 0 to 9999. Write the Flajolet-Martin algorithm to compute the number of distinct
+items in the datastream. Count the actual number of distinct items and compare the two values
